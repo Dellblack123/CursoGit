@@ -1,1 +1,1 @@
-hola mundo git
+hola mundo git, comando commit, status, push, add
